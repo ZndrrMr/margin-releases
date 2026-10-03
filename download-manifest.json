@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "product": "Margin",
+  "platform": "macOS",
+  "version": "0.2.0",
+  "build": "123",
+  "minimumOSVersion": "15.0",
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "archive": {
+    "filename": "Margin-mac.zip",
+    "url": "https://github.com/ZndrrMr/margin-releases/releases/download/v0.2.0-123/Margin-mac.zip",
+    "sha256": "d1ac421519055fe26d4656da5eee796f5198a615598e35369436a0f682691099",
+    "bytes": 49165831
+  },
+  "verification": {
+    "notarization": "Accepted",
+    "stapled": true,
+    "gatekeeper": "accepted"
+  }
+}
