@@ -5,9 +5,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.0</title>
-            <pubDate>Tue, 06 Oct 2026 15:14:05 -0400</pubDate>
+            <pubDate>Tue, 06 Oct 2026 14:23:20 -0400</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>132</sparkle:version>
+            <sparkle:version>131</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text"><![CDATA[Margin 1.0
@@ -16,10 +16,10 @@ A new Mac download, made to feel at home. Drag Margin into Applications once; fu
 
 Note typing is smoother. Text keeps the same line breaks when you finish editing. Double-click an empty part of the canvas to start a note.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.0-132/Margin-1.0-132.dmg" length="49117954" type="application/octet-stream" sparkle:edSignature="ZnqVf9HiJtXDUhf2oNAZxzZByEXcNpOQsgH0Kr9U8Yfyj0untn6VuiG+C28UXVKidJFVO9eMkU6Wofr1RJndCg=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.0-131/Margin-1.0-131.dmg" length="49117747" type="application/octet-stream" sparkle:edSignature="eQqJJXU610kKl7q7DmXk/MDZKynzHII+weILMibglYrnvdzNR+HcKLjn4gFXguBGoHZmd2oPwe6vK4u4zKU9Dg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CH3zqgqwuUppTA6kdmn4BcOsFY8nn4vJsp+RZScB2jsindP8zP/IgBnpAIWZIo4zSkgKG+voTmqi+QFzbCoiAA==
+edSignature: illchcXJpgfOrZZtS2JcpO33Z8kz+9GuhbJ41WmLOMalL4JAIlvEmXwOH3s7Eap8bTtULRXoGTlbd7zaKJsqDA==
 length: 1523
 -->
