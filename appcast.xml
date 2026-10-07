@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 07 Oct 2026 17:05:10 -0400</pubDate>
+            <pubDate>Wed, 07 Oct 2026 19:06:16 -0400</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>138</sparkle:version>
+            <sparkle:version>139</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Margin for Mac now shows a blue update button beside your profile when a new version is available. Click once to download, watch the percentage in the same button, and let Margin save your work and restart automatically. Updates are discovered while Margin is open and after reopening. Downloads start only when you choose to update.
+            <description sparkle:format="plain-text"><![CDATA[The Mac Settings footer now includes the build number, making it easier to confirm which version is installed. This small release lets you try the blue update button from build 138.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.0-138/Margin-1.0-138.dmg" length="49164653" type="application/octet-stream" sparkle:edSignature="kTwNZLXXo8FS+o0mMKXQk8ekYDB6VyH3BbiIRlBDTwCt7q5puu0SUNtbbNRLVNg/3W8SGsQ76Ue+9D0kk8z9Bg=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.0-139/Margin-1.0-139.dmg" length="49166417" type="application/octet-stream" sparkle:edSignature="CfsQHBy0Z0C+dUNGCTj4MDChZL1Gyub8KwckUTXSOnjH9cVVvEIWhe3uxJi4qmCi7rqqJ+mrx/JVmyFYw+udDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: MaFPirz5WKjLhNyvfpVWF+VGLWbaApkYQFbVtYuaVgXY7W/LSiB1b9EgBNEncFThuHud0QDPpqh0nCFjb27iBg==
-length: 1512
+edSignature: ccsBNF229VqJ0d5hyh6UynhXZMA9llgsjFDvvmxZWkAsCjw5UqWj0quGsagEKtOIU3kNdLi72vCOOK1dEI5qBA==
+length: 1360
 -->
