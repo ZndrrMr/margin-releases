@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 07 Oct 2026 19:06:16 -0400</pubDate>
+            <pubDate>Wed, 07 Oct 2026 19:32:54 -0400</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>139</sparkle:version>
+            <sparkle:version>140</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[The Mac Settings footer now includes the build number, making it easier to confirm which version is installed. This small release lets you try the blue update button from build 138.
+            <description sparkle:format="plain-text"><![CDATA[Update button matches the Codex download glyph and your profile size. Progress keeps a fixed capsule size.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.0-139/Margin-1.0-139.dmg" length="49166417" type="application/octet-stream" sparkle:edSignature="CfsQHBy0Z0C+dUNGCTj4MDChZL1Gyub8KwckUTXSOnjH9cVVvEIWhe3uxJi4qmCi7rqqJ+mrx/JVmyFYw+udDg=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.0-140/Margin-1.0-140.dmg" length="49178804" type="application/octet-stream" sparkle:edSignature="/tnrAlXPaCHUgGeGZfsQNVsaOw8BDLBq5K6LZUbIRTqGDa9nCTjgpA7QzyaeP87SV5nExABHVvNc8ttORWkBCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ccsBNF229VqJ0d5hyh6UynhXZMA9llgsjFDvvmxZWkAsCjw5UqWj0quGsagEKtOIU3kNdLi72vCOOK1dEI5qBA==
-length: 1360
+edSignature: vqZLWsEMqp0uduy5IFI4YGU1/ljlto7cMkJTf07rSe8ZPLndLTJ1D8kCXAMEqN/eO8XWFgxDQPiy0FgOarcwDw==
+length: 1285
 -->
