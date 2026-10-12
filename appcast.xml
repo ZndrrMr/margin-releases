@@ -4,18 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Margin</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Wed, 07 Oct 2026 19:33:34 -0400</pubDate>
+            <title>1.1.0</title>
+            <pubDate>Mon, 12 Oct 2026 14:06:43 -0400</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>141</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:version>158</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[A new build to verify the corrected update button and fixed-size download progress.
+            <description sparkle:format="plain-text"><![CDATA[Margin 1.1.0 (158)
+
+Adds X research when a question calls for recent posts or a specific X account, alongside public web search. Search activity shows the sources being read. Includes the current sync and canvas conversation updates.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.0-141/Margin-1.0-141.dmg" length="49178966" type="application/octet-stream" sparkle:edSignature="g5NNjgac89Da/GCLj0IQg6m3My6liYEMcBr7Il3wd62x3M4olLAV59GM7VB/UHMBRnr5jJfBiISKka6jIiDSCw=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.0-158/Margin-1.1.0-158.dmg" length="50928122" type="application/octet-stream" sparkle:edSignature="rad1yoExP4GX7TV/zQODmZGyNlotKZQTiKjGxOJiq+pkTTJ00GXftceQX0gdgsh4j9UvUBl/ikH2+BjrSXLRDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aqdTtzpGpPR1DPuVIPYqw0MF0b6jAe+/ZjenMaNHXeO5l58iRMCKFa2hSEHIcrjobMJYpCFVMFXyi+ZodEZCBA==
-length: 1262
+edSignature: 2LGjz+C5y/CFaMVguLC+bic5HnVIn+z3bE1wah5f4FFVuswpy7e74I7l1qtYQLDEvjyjakEqAbzWtZKS/+9uCQ==
+length: 1420
 -->
