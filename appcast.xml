@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.0</title>
-            <pubDate>Thu, 15 Oct 2026 15:58:38 -0400</pubDate>
+            <pubDate>Wed, 21 Oct 2026 23:22:54 -0400</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>164</sparkle:version>
+            <sparkle:version>167</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Margin 1.1.0 (164) fixes stalling flowers around AI responses. Original flowers now reuse decoded artwork and prepare animation frames in the background, keeping the canvas and response text responsive. Includes the latest cream and floral response styling and standard macOS cursors.
+            <description sparkle:format="plain-text"><![CDATA[Flowers animate while an AI response is being generated and remain still afterwards, including when you return to the app or reopen a response. Mac uses standard system cursors throughout Margin. Updated AI sharing permission names Cerebras, Exa and optional public X research through xAI, with a new choice required for earlier permissions.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.0-164/Margin-1.1.0-164.dmg" length="41971612" type="application/octet-stream" sparkle:edSignature="SW5+BYYQ9Yq36VyZ/7lpJsCMSuVrL59Kn2BercIl4YIPhd+pcpdiC2kiqXC2pbaie06dTHJsg3pNKCgusQq7AA=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.0-167/Margin-1.1.0-167.dmg" length="42007705" type="application/octet-stream" sparkle:edSignature="l9ardJS9t57sZuj2Ipzb0WZXyZEk8hK7vJexWxxrNO3ftRFmgHJQVpq1bBlwToQW7Z3IdiAHfReGSBuiSIiHBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: gvB+41UkMb3UvR3i2phJCI4HwkG5r9IzirMKA3ykt3S1DmV8ZLHijpU3v9oOkEuDjOJ0zZWYjgcfXwfmdf+DBQ==
-length: 1471
+edSignature: nqypRt7CFgEciJOadr6PWMvSrtt4pP/KZjbcnckQIQX57p1XrjAC1zQUJshkIstkUPLuh//8frBScdePcnECDg==
+length: 1528
 -->
