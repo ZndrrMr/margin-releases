@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.0</title>
-            <pubDate>Wed, 21 Oct 2026 23:22:54 -0400</pubDate>
+            <pubDate>Sat, 24 Oct 2026 09:33:20 -0400</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>167</sparkle:version>
+            <sparkle:version>168</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Flowers animate while an AI response is being generated and remain still afterwards, including when you return to the app or reopen a response. Mac uses standard system cursors throughout Margin. Updated AI sharing permission names Cerebras, Exa and optional public X research through xAI, with a new choice required for earlier permissions.
+            <description sparkle:format="plain-text"><![CDATA[Margin response cards now have square corners like images. In dark appearance, green fills every outer corner beyond the gold frame, including response previews and reading transitions.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.0-167/Margin-1.1.0-167.dmg" length="42007705" type="application/octet-stream" sparkle:edSignature="l9ardJS9t57sZuj2Ipzb0WZXyZEk8hK7vJexWxxrNO3ftRFmgHJQVpq1bBlwToQW7Z3IdiAHfReGSBuiSIiHBg=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.0-168/Margin-1.1.0-168.dmg" length="42007978" type="application/octet-stream" sparkle:edSignature="PQHDWnah7W6zDFEh55qh/8iRDTZ9AqGoVNspalpx9znHrXT6J3SWDd3MEV1WYoDyrk8eXdQYwH67j0lvUah0DQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nqypRt7CFgEciJOadr6PWMvSrtt4pP/KZjbcnckQIQX57p1XrjAC1zQUJshkIstkUPLuh//8frBScdePcnECDg==
-length: 1528
+edSignature: GVm9blup+2UMBiHlDrcQA1vf1zRJhzbVQ72PwDW/fvKespgNPp6m7mmT/5Nc23jDv+VAv7xmHZA+yBc1cVYCBw==
+length: 1372
 -->
