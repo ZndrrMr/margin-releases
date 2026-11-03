@@ -4,24 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Margin</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Tue, 03 Nov 2026 02:14:44 -0500</pubDate>
+            <title>1.1.1</title>
+            <pubDate>Tue, 03 Nov 2026 08:07:24 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>169</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:version>170</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Margin 1.1.0 (169)
-
-Shorter everyday answers with full answers when requested.
-Save cited webpages and PDFs with their original source.
-Focused PDF page navigation preserves your annotations.
-Dictate directly into notes, with a one-hour session limit.
-Improved external library integration.
+            <description sparkle:format="plain-text"><![CDATA[Fixes Continue in Kiku on Mac when the share service reads a PDF after the sender sheet closes. Original PDFs keep their exact bytes and searchable text; annotated and canvas copies retain notes. Opening remains paused, and Cancel does not open Kiku.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.0-169/Margin-1.1.0-169.dmg" length="52688436" type="application/octet-stream" sparkle:edSignature="pgnqIv33wUPAOs07T2uzM+dDiTorIiKbCtXcNoaii3yO8zMY+RiWwQuLK9lT1+Hp2n2/CfwsyizYlvv4UPSjCg=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-170/Margin-1.1.1-170.dmg" length="52697377" type="application/octet-stream" sparkle:edSignature="GZ2dDX8igQdimZsR6CjXXdHm2sEsE9OF6h56L20YtMGwydt0Hjmkd1se70lRC/06WSZ/TUSkuBP3+QGDREGpCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: UKb0CoHfOS3RroG1JTTYWQEGOt9xFZcjEwB7nyTbHCsD7EqlemE5qiU3q8o00y+905Jxjt/S2ZXiRtJ0UYlUAQ==
-length: 1477
+edSignature: kY4VDre4jK4QJKWwNBgUjo/yBANRJMUrFN92k02H9MG2+jafRCc/8PkhAb8b572P9v3qfh3bwRBL87C5Q8V1Bw==
+length: 1437
 -->
