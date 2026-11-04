@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Tue, 03 Nov 2026 20:29:27 -0500</pubDate>
+            <pubDate>Tue, 03 Nov 2026 22:39:07 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>171</sparkle:version>
+            <sparkle:version>172</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Find partial words across PDF ligatures, with highlights on the original text.
+            <description sparkle:format="plain-text"><![CDATA[Export dense handwritten boards quickly, preserving ink appearance.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-171/Margin-1.1.1-171.dmg" length="52705298" type="application/octet-stream" sparkle:edSignature="vYDt6tq2AKnHlqBKFSieSsqXgp3yhM7wPRpXoH2G4TqEWAsoS1m91oFmsqob6W7GNJltvjIYlpnqkwMzcPC4Dg=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-172/Margin-1.1.1-172.dmg" length="52703535" type="application/octet-stream" sparkle:edSignature="O/+PSntekblcuXM6OJQ1t+fbXWyBOPgFL6PjCGeJ7ocR5JisudQARiKRIxAmPIM2/o3UJiK9QuNF94I9KXZdDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: X9p+45W6dkrSmXj0B/5u7oxDd/r/mnUQb9FkwIleIT1JfXeP7+kBBK3zHrlLldNbTadnA1h9FQAjVf1RcL0FBg==
-length: 1265
+edSignature: DD4UWgkb3zVSFsgv5j2hE40GG0m5tWEvABVL+ePiWp2hZjm5HLO8ci6h5oEtfVeKuv/1gq0DGG8uBTCa/oAeCw==
+length: 1254
 -->
