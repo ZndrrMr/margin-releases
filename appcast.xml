@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Tue, 03 Nov 2026 08:07:24 -0500</pubDate>
+            <pubDate>Tue, 03 Nov 2026 20:29:27 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>170</sparkle:version>
+            <sparkle:version>171</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Fixes Continue in Kiku on Mac when the share service reads a PDF after the sender sheet closes. Original PDFs keep their exact bytes and searchable text; annotated and canvas copies retain notes. Opening remains paused, and Cancel does not open Kiku.
+            <description sparkle:format="plain-text"><![CDATA[Find partial words across PDF ligatures, with highlights on the original text.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-170/Margin-1.1.1-170.dmg" length="52697377" type="application/octet-stream" sparkle:edSignature="GZ2dDX8igQdimZsR6CjXXdHm2sEsE9OF6h56L20YtMGwydt0Hjmkd1se70lRC/06WSZ/TUSkuBP3+QGDREGpCg=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-171/Margin-1.1.1-171.dmg" length="52705298" type="application/octet-stream" sparkle:edSignature="vYDt6tq2AKnHlqBKFSieSsqXgp3yhM7wPRpXoH2G4TqEWAsoS1m91oFmsqob6W7GNJltvjIYlpnqkwMzcPC4Dg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: kY4VDre4jK4QJKWwNBgUjo/yBANRJMUrFN92k02H9MG2+jafRCc/8PkhAb8b572P9v3qfh3bwRBL87C5Q8V1Bw==
-length: 1437
+edSignature: X9p+45W6dkrSmXj0B/5u7oxDd/r/mnUQb9FkwIleIT1JfXeP7+kBBK3zHrlLldNbTadnA1h9FQAjVf1RcL0FBg==
+length: 1265
 -->
