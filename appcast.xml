@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Tue, 03 Nov 2026 22:39:07 -0500</pubDate>
+            <pubDate>Wed, 04 Nov 2026 18:39:42 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>172</sparkle:version>
+            <sparkle:version>173</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Export dense handwritten boards quickly, preserving ink appearance.
+            <description sparkle:format="plain-text"><![CDATA[Cleaner canvas: remove the floating Question and Try again controls, and keep note dictation as a microphone icon.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-172/Margin-1.1.1-172.dmg" length="52703535" type="application/octet-stream" sparkle:edSignature="O/+PSntekblcuXM6OJQ1t+fbXWyBOPgFL6PjCGeJ7ocR5JisudQARiKRIxAmPIM2/o3UJiK9QuNF94I9KXZdDA=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-173/Margin-1.1.1-173.dmg" length="52678036" type="application/octet-stream" sparkle:edSignature="g1UZ/ICqkGQjwQAu9218qJAh5mDUbGJKv7Jmv+LjRIsg8Fv3XcqTWBdUG3ULgGQK4mNuDmBQKiSdoJPJr8WjCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: DD4UWgkb3zVSFsgv5j2hE40GG0m5tWEvABVL+ePiWp2hZjm5HLO8ci6h5oEtfVeKuv/1gq0DGG8uBTCa/oAeCw==
-length: 1254
+edSignature: AtX55Q962LY9xFgSzd/Ldg3hZsOEEsvo3Dmmg/zY8sWfKCoSRo+Ul0yI3SmsCflW1RKX8DLzPf9lpyo/18nzCw==
+length: 1301
 -->
