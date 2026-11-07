@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Thu, 05 Nov 2026 12:00:54 -0500</pubDate>
+            <pubDate>Sat, 07 Nov 2026 16:13:46 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>174</sparkle:version>
+            <sparkle:version>175</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Keep your saved thoughts available during a temporary sign-in outage. Sign out on this device without waiting for an unavailable service. Reduce repeated requests for missing media while preserving immediate changes and media recovery.
+            <description sparkle:format="plain-text"><![CDATA[Fix the photo picker reopening after browser authentication and layout changes. Report Pinterest access failures without showing an empty collection. Pinterest-denied reads remain subject to Pinterest approval and connection permissions.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-174/Margin-1.1.1-174.dmg" length="52726135" type="application/octet-stream" sparkle:edSignature="4wWmIuwAW1ZFgfLJ3rpW34hjSa6yIZEuUp2sKtwL5dLcJtkO82Ny3r4FRZNmRtSOwhFRTwyYPWJYxCAiaHs1CA=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-175/Margin-1.1.1-175.dmg" length="52726486" type="application/octet-stream" sparkle:edSignature="OBJUX2aMTpGHvyVC0/mRJm3wjrI+EHltg1liICNjOMUL6739EthH9ilDJLZNqI/0xS+0F7Fk9ZnMg9Z3o2otDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Tltf3vCg/yxUZLkDWn1ObXY5Humna3Q/5drjpqbkGurtGx8U9kOCSBO57S5MN3QoEzlznOzbjkG4oiQKy/abBw==
-length: 1422
+edSignature: OQnUXmdsnE9ZSEAqCLItZfTFUpSUts7Xbja9DxOKd52eErWWsGqOvBerqgfl8SccX6MVwE5tGwAGoFTEZiG1CA==
+length: 1424
 -->
