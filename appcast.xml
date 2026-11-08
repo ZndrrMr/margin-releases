@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Sat, 07 Nov 2026 22:24:28 -0500</pubDate>
+            <pubDate>Sun, 08 Nov 2026 11:06:36 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>176</sparkle:version>
+            <sparkle:version>177</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Response cards now keep sharp, square outer corners, including previously saved responses, previews and reading views. Your writing, images and annotations stay intact.
+            <description sparkle:format="plain-text"><![CDATA[A more compact reading-position selector on Mac: closely grouped icons and labels, quieter selection, and less padding. Read, Notes right and Notes left retain their existing reading and annotation behavior. iPad and iPhone layouts are unchanged.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-176/Margin-1.1.1-176.dmg" length="52730253" type="application/octet-stream" sparkle:edSignature="8d7FAUPwF3eoOj4ONvofmc6wOz84AhL/Anie9dRkNF/TBD1nIcIwq5jelmuq06eakDQA5kXsQ0uBsLTLUwP3Bw=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-177/Margin-1.1.1-177.dmg" length="52732484" type="application/octet-stream" sparkle:edSignature="oiP5/th5rDXuTOeLcJiBUEieACmI/AKlqko6RVn7wvKuqm/8q6NIh70LYfclteM2UdjIQ4Q2sdtGdsuzKAX+BQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bEacRCpzrAPJti2nYCIoGAyTd9NTgH2ErmdnXQqvvj630dHEcIizSGVNCNFHWioYQ3/TDWMIOXrnBsy6g088Cg==
-length: 1355
+edSignature: RIxuUzFnVfYAHPfg0s0ZVZc5qw3LaxlCHLynHZJ1Y3pDMSWA2/lolvJT3Nv3UoCiziDvoPbm54YbMpJ7qAo4AQ==
+length: 1433
 -->
