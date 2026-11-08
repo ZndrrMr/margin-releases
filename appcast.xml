@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Sun, 08 Nov 2026 11:06:36 -0500</pubDate>
+            <pubDate>Sun, 08 Nov 2026 11:52:34 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>177</sparkle:version>
+            <sparkle:version>178</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[A more compact reading-position selector on Mac: closely grouped icons and labels, quieter selection, and less padding. Read, Notes right and Notes left retain their existing reading and annotation behavior. iPad and iPhone layouts are unchanged.
+            <description sparkle:format="plain-text"><![CDATA[Reading positions now use native Apple Liquid Glass, matching the main toolbar, with an opaque Reduce Transparency fallback. The Mac update control uses the response paper’s dark green in both appearances. Compact Mac layout, touch targets and all reading and annotation actions are preserved.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-177/Margin-1.1.1-177.dmg" length="52732484" type="application/octet-stream" sparkle:edSignature="oiP5/th5rDXuTOeLcJiBUEieACmI/AKlqko6RVn7wvKuqm/8q6NIh70LYfclteM2UdjIQ4Q2sdtGdsuzKAX+BQ=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-178/Margin-1.1.1-178.dmg" length="52732173" type="application/octet-stream" sparkle:edSignature="bRiqgDox2buHYY3F4JsD31HcgdipqsLIdNi6j/KuxCW8SSS8J/L6ByFTmzm5Gz7dQ0E1zXRUdE/ZQP70TCObAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: RIxuUzFnVfYAHPfg0s0ZVZc5qw3LaxlCHLynHZJ1Y3pDMSWA2/lolvJT3Nv3UoCiziDvoPbm54YbMpJ7qAo4AQ==
-length: 1433
+edSignature: lUjwdW793fGp4KncjEVuuIgDeI4VoJtwBhu0vP6F6cC0YiFGeIvGH0dqgY/1WJtml4/m4XhznMi3NP9pKQBeCw==
+length: 1482
 -->
