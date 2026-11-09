@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Sun, 08 Nov 2026 14:36:07 -0500</pubDate>
+            <pubDate>Mon, 09 Nov 2026 15:41:35 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>179</sparkle:version>
+            <sparkle:version>181</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Returning to Margin no longer flashes an empty shared-inbox status pill. Shared items still import automatically with useful progress and retryable errors. Includes the native Liquid Glass reading selector and response-green update button from build 178.
+            <description sparkle:format="plain-text"><![CDATA[Restores syncing for workspaces that stopped updating on iPad and Mac after a card or subspace was added from Margin on Quest, web or Android. Edits made while sync was stopped stay on your devices and upload automatically after this update. Study answers keep source labels out of their text, and the Margin agent command line is easier to navigate.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-179/Margin-1.1.1-179.dmg" length="54551135" type="application/octet-stream" sparkle:edSignature="/X5IHQJsbTajNSGWmM4zsaTxSF9mBvGRi5mTGA5qn30V9PRFB9qRHQeDSUvvNCqIfIAKY7TzrrlHL5lt4703CQ=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-181/Margin-1.1.1-181.dmg" length="52805209" type="application/octet-stream" sparkle:edSignature="UgqloRKgr+CGkbrhWUTUdDXMP9fPe+EgSDrOzaGLvyYcWOKPiTZPfzuYm9EGKfLy2s2kUF8mkPuRCTC7aMbjDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: c1BRyJzviAW4e5/kdLwFETU4cjjczldfWr0kIq7+NT462g7Cd1H01BTD1IbUTlkXqz3vyZZ4/CthJ5DaOiNjDQ==
-length: 1441
+edSignature: f7LXxew1KkyMCmmY9NMFE+jxvcXenlM0tVXDV+ZB3c4vTa3uXdzTU98oWygJhK/shypcVx2jgKLlIcV7WUiQAg==
+length: 1537
 -->
