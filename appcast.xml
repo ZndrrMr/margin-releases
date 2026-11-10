@@ -5,17 +5,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Tue, 10 Nov 2026 00:07:36 -0500</pubDate>
+            <pubDate>Tue, 10 Nov 2026 03:49:42 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>182</sparkle:version>
+            <sparkle:version>183</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Fixes a shared workspace that could stop syncing on iPad and Mac after an answer was placed on the canvas from Margin on Quest. Edits made while sync was stopped stay on your devices and upload automatically.
+            <description sparkle:format="plain-text"><![CDATA[Dictating into a note on the canvas keeps every new line visible: the note grows beneath the microphone instead of hiding the newest words, and resting notes always show their final lines.
+PDF cards on the canvas are a single page sheet with quiet document handles.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-182/Margin-1.1.1-182.dmg" length="52802720" type="application/octet-stream" sparkle:edSignature="YDc3Qq5ECCKawkZks/0sQ8ytokP+bgi058q5we+vTk9uJR8pn+mukb/Q8XOUtzQDlJC1PK/jJOMM+y0zDIChAw=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-183/Margin-1.1.1-183.dmg" length="52933499" type="application/octet-stream" sparkle:edSignature="frbeOHVZah679X4NCekgqYSMr/X2vSD1TTQ+BCjeR4p2UiStKky7Xykle1b4j5NVnkieBF2jpSTisZLpjZ1MDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aXYC7QuVrfi65EWZqNNVn/lLVVPaAt8xOGsfA+7JlRguQ2pwga1QwEKq2o9DBWJiRA8tL1Bo0djS4o356AzIDA==
-length: 1395
+edSignature: r47VM9e49gVPw6DoDsxJiHAEZoVddJO+M60AAvSJqtVigjP5QNdp2Iu3DgjJXak1iWwvUtWDG6mlSZrk+WuACw==
+length: 1452
 -->
