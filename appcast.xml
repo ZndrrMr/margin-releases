@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Tue, 10 Nov 2026 10:47:34 -0500</pubDate>
+            <pubDate>Tue, 10 Nov 2026 12:31:14 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>185</sparkle:version>
+            <sparkle:version>186</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Dictation now works like Margin on Quest: select a note and tap the larger microphone on its corner. While Margin listens, a badge above the button shows the elapsed time, the ring around the button follows your voice, and your words appear in the note as you speak. Includes everything in build 184.
+            <description sparkle:format="plain-text"><![CDATA[The note microphone is now the same size as Margin on Quest, a larger target that sits on the note's corner without covering its title. While Margin listens, the badge above it shows the elapsed time, the ring around it follows your voice, and your words appear in the note as you speak. Includes everything in build 185.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-185/Margin-1.1.1-185.dmg" length="53089750" type="application/octet-stream" sparkle:edSignature="8wwdm0KuYsBf1061X17uEiixxNOaukPDiRMVnoCZjRbjvJg7BGVFXGMS8B+1aeecf7Dj72Xw3jLIIibCUJA2CQ=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-186/Margin-1.1.1-186.dmg" length="53090140" type="application/octet-stream" sparkle:edSignature="MQn25giBki5h5eBTR5mC38vs84Kk3MKP0tDlq7sy4Xx/uOISC3NalX18I7wljqCEN8xrLEoo1ELHJMZZxOQJDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Q9iAxboABvc4ZEMN9u0DsWrGfOI3rVesR+6mgsI3ol/zWo/4CPadGyBM+10brVRQqq/f3NIoc7uvcO9Xrd6hAA==
-length: 1487
+edSignature: 9y78/KnIGMycWakps42HmJPvCGax1dStv5O+lhPnpPOuKBaayL+Hper9+Ja3KIZJdC9xGOxY6rl6FJ5V70z4CA==
+length: 1508
 -->
