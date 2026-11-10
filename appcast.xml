@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Tue, 10 Nov 2026 06:01:09 -0500</pubDate>
+            <pubDate>Tue, 10 Nov 2026 10:47:34 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>184</sparkle:version>
+            <sparkle:version>185</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Handwriting and attachments now upload before anything is downloaded, and on iPad Margin keeps sending for a short time after you leave the app, so a quick visit no longer leaves ink behind. Includes everything in build 183.
+            <description sparkle:format="plain-text"><![CDATA[Dictation now works like Margin on Quest: select a note and tap the larger microphone on its corner. While Margin listens, a badge above the button shows the elapsed time, the ring around the button follows your voice, and your words appear in the note as you speak. Includes everything in build 184.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-184/Margin-1.1.1-184.dmg" length="52953238" type="application/octet-stream" sparkle:edSignature="ua6xrW5JoUKeDm7UunEKcJeljCsrXGZX32S3gzyx9w+EEM+G+DGse5r1j7LndOFnFPbBWKRVQ06c7XIHl7R9Cw=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-185/Margin-1.1.1-185.dmg" length="53089750" type="application/octet-stream" sparkle:edSignature="8wwdm0KuYsBf1061X17uEiixxNOaukPDiRMVnoCZjRbjvJg7BGVFXGMS8B+1aeecf7Dj72Xw3jLIIibCUJA2CQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 63JIsNTyUXyD3G79y7MVDjx1GeWwLbDfJ9LPOZHYw7gWrVPlZ5nn/vhePpyhV8x3xk4dJj9SXAYeGyWDhETQAg==
-length: 1411
+edSignature: Q9iAxboABvc4ZEMN9u0DsWrGfOI3rVesR+6mgsI3ol/zWo/4CPadGyBM+10brVRQqq/f3NIoc7uvcO9Xrd6hAA==
+length: 1487
 -->
