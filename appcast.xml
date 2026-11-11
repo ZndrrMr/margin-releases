@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Tue, 10 Nov 2026 23:41:10 -0500</pubDate>
+            <pubDate>Wed, 11 Nov 2026 00:36:37 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>188</sparkle:version>
+            <sparkle:version>189</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Questions about a photo now include the photo: write a question beside a photo, or circle part of it, and Margin sends the photo (or the circled part) with your question, so the answer can describe what is actually there. Answers also appear beside your question instead of far across the board. Includes everything in build 187.
+            <description sparkle:format="plain-text"><![CDATA[Questions about photos are more reliable: a circle or note drawn on a photo is treated as a mark on that photo and is no longer mixed up with writing beside it; a photo you select together with your question is the one Margin sends; and when two photos are equally close, Margin shows both and asks which you mean. Handwritten questions on PDF pages are read as handwriting again (build 188 could treat the first pages of a PDF as a photo). Includes everything in build 188.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-188/Margin-1.1.1-188.dmg" length="53129171" type="application/octet-stream" sparkle:edSignature="Lz36g104ukUFB3Pe7IjgVgqwwVFGj7Fdj08cji/VsTIUtei1KMl1Ngkzr2OiQj27MyzCEuUKQEAC7jlWyuIaDA=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-189/Margin-1.1.1-189.dmg" length="53147308" type="application/octet-stream" sparkle:edSignature="vxDD8z/SnpPTmVCAtBHtTH1tZgP5N1p8H/Z/3idd3oEGQBJoM+DaG/PCn9euPH+wk7k1bTINWYvFLXvPfStYAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: DQlu7t81o1o6+iJoL6ydhnGHKI3RKtKl5WEQ+lE7h3b1CGYs3El6Bhgd7rdN5xw4HxidSHhEJabHQaI4E2GPAw==
-length: 1516
+edSignature: 9lKV04yc3hZAoqWNFvtHNFQNt71Ko4ExT7P5diZ4cRZ34pTXJUmtL9mwC0PxEXduig0qGxqRrcd7kHIOaMxAAw==
+length: 1661
 -->
