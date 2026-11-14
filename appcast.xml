@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Sat, 14 Nov 2026 11:33:30 -0500</pubDate>
+            <pubDate>Sat, 14 Nov 2026 15:14:59 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>191</sparkle:version>
+            <sparkle:version>192</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[When you write a question beside an AI reply and point at one part of it with an arrow, an underline or a circle, Margin now asks about exactly that part. Before, a question written between two rows of a list could be sent with the neighbouring row instead. If your marks reach two rows, both are sent together rather than one being guessed. Includes everything in build 190.
+            <description sparkle:format="plain-text"><![CDATA[When you write a question on the canvas and point at part of an AI reply with an arrow (straight, curved, dashed or drawn in pieces, either way round), an underline, a highlight or a circle, Margin now reads only your words as the question, shows the AI the reply itself with your marks drawn over it, and names the words you marked. A follow-up written beside an answer, or pointed at it, continues that answer and keeps what you highlighted before. Asking again about the whole of a question you first asked only part of no longer builds on the earlier misread answer. Includes everything in build 191.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-191/Margin-1.1.1-191.dmg" length="53152444" type="application/octet-stream" sparkle:edSignature="CBMj0NZyeJKhGDmriXQHGzcepC44UiwzhR+LwliGiNt+JYm0U4jnqf27olWy6Eao4zzBc2S0dZAk6/kyS+gUBQ=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-192/Margin-1.1.1-192.dmg" length="53481016" type="application/octet-stream" sparkle:edSignature="SLZeHM2S9oC9lkORORRfa4OVXUaVWdNkGfTtlYWg5hEu4/Y4oeOvkdXekztRdzo8QKteuQlkW2kmFoRD2/SLAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: cxdsowZ+UmJSp4LnacDq8OIoe+Cc6mU2VnxiXczuBVBCQ3lwTIIcvZYdlQVJAFszdYGLtXLT5T2SwjK1ia//Cg==
-length: 1562
+edSignature: YMwqWiLPpCrr/dzGBLZOcrrGll+3FOdtdQ3+RfR+ceJp7aOuhu8OodtCw27c3EnZFgnhE/CWf8WnqRqnhceKAw==
+length: 1791
 -->
