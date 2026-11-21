@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.1.1</title>
-            <pubDate>Mon, 16 Nov 2026 01:01:17 -0500</pubDate>
+            <pubDate>Sat, 21 Nov 2026 13:28:22 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>193</sparkle:version>
+            <sparkle:version>194</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[While Margin searches the web for an answer, the answer paper no longer grows. It keeps its size, with the search row under “Thinking…”, until the first words of the answer appear. Includes everything in build 192.
+            <description sparkle:format="plain-text"><![CDATA[This update prepares a test of a new AI answer service on the developer's own account. Nothing changes for your account. Includes everything in build 193.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-193/Margin-1.1.1-193.dmg" length="53479484" type="application/octet-stream" sparkle:edSignature="w0aC2Bf8nm7nkhLaDLWMpmqb3H6VS8iUaF5dnaKm+j9SzX+tfTnpnJB2I1ix7TRHovzS5XzDgtBnjhgHNqSODw=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-194/Margin-1.1.1-194.dmg" length="53479270" type="application/octet-stream" sparkle:edSignature="Az8VgsncLskvGvX+tcUaotxOIqyL9GrnsvXZtjfwaa88BmyjP5wnYB+fN3u21MBwTOx8G0OkwSKUtZLmfN6JAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Sq8sQRAJgR3Xc1G5YFwbOcgs3b9IoI+ilBNCHHpB8uBlZAzzg3YYwpa9dy/Lfzy3BtDrsEgJBNbUaxHvPBqNBg==
-length: 1407
+edSignature: Qz8FvsDC+BcpBIWNypdTkixYyccqHvlz1CNo+ijUGfsCfmCviDmd/EHp6NPZ5klbF0UAzIb6a8oGfhAfd3bKAA==
+length: 1341
 -->
