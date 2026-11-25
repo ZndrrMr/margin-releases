@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Margin</title>
         <item>
-            <title>1.1.1</title>
-            <pubDate>Sat, 21 Nov 2026 13:28:22 -0500</pubDate>
+            <title>1.2.0</title>
+            <pubDate>Wed, 25 Nov 2026 15:42:04 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>194</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:version>197</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[This update prepares a test of a new AI answer service on the developer's own account. Nothing changes for your account. Includes everything in build 193.
+            <description sparkle:format="plain-text"><![CDATA[This update prepares a test of a connection to your own AI agent on the developer's own account. For everyone else Margin works as before, and a few texts now also mention iPhone. Includes everything in build 194.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.1.1-194/Margin-1.1.1-194.dmg" length="53479270" type="application/octet-stream" sparkle:edSignature="Az8VgsncLskvGvX+tcUaotxOIqyL9GrnsvXZtjfwaa88BmyjP5wnYB+fN3u21MBwTOx8G0OkwSKUtZLmfN6JAg=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.2.0-197/Margin-1.2.0-197.dmg" length="54696690" type="application/octet-stream" sparkle:edSignature="nV/GNM1FuZbJnVrwHvV1rlq9CO8GCXwl6O7P2fWKKlKGOBgdlon9R3+mjwlZINllKwvS/hkaRcyomSY9fVXUBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Qz8FvsDC+BcpBIWNypdTkixYyccqHvlz1CNo+ijUGfsCfmCviDmd/EHp6NPZ5klbF0UAzIb6a8oGfhAfd3bKAA==
-length: 1341
+edSignature: rA7XqhpEydmLfMqC8rIcL2QZKaONd3zezbPA5ALZe4uiTjHlmGpuJrH/P03jnbwyp6Ir+R6Yl4UEYZ7xG1O1BA==
+length: 1400
 -->
