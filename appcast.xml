@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.2.0</title>
-            <pubDate>Wed, 25 Nov 2026 23:10:12 -0500</pubDate>
+            <pubDate>Thu, 26 Nov 2026 13:55:38 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>198</sparkle:version>
+            <sparkle:version>199</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[This update improves Margin on foldable iPhones and fixes keyboard focus and VoiceOver issues found on iOS 27.2. On the Mac, Margin works as before. Includes everything in build 197.
+            <description sparkle:format="plain-text"><![CDATA[This update fixes Margin's memory use on the Mac. Margin no longer grows over days of staying open while it reconnects, and backing up a large library no longer takes gigabytes of memory. Includes everything in build 198.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.2.0-198/Margin-1.2.0-198.dmg" length="54713043" type="application/octet-stream" sparkle:edSignature="Fnz7HJaRoqNCOSUko43quUCwS1SV3m+KUxy9XPO/kjB38DB0c/L7yQUPS9MkNxmkFnkX47+oE86uYGjCF4U+CQ=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.2.0-199/Margin-1.2.0-199.dmg" length="54721712" type="application/octet-stream" sparkle:edSignature="jdGjsiXEBFBg0wAQ3JA6m3AWGCHWafFMw+Upqop2mOgt2in66ZrMNutyZpDo1V0cAj0l5FdC3vajdXy2u9LjDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 4J58l7Yk4xzLrC9INx2y4Umd5I9VgPMr/Xsfcuebvts7sBe7NO+q9EjxKzTq7FD3igsajwZg3kdaXDFdvzdLCg==
-length: 1369
+edSignature: KGAy0zRoOrNCBmbLPy8/3ocFmo7mzK7QNlBJq8W4CvTUtWwsWb6akluOsuTs72rrFRfHkEqg1434oSWCu4ctCA==
+length: 1408
 -->
