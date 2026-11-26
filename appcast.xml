@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.2.0</title>
-            <pubDate>Wed, 25 Nov 2026 15:42:04 -0500</pubDate>
+            <pubDate>Wed, 25 Nov 2026 23:10:12 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>197</sparkle:version>
+            <sparkle:version>198</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[This update prepares a test of a connection to your own AI agent on the developer's own account. For everyone else Margin works as before, and a few texts now also mention iPhone. Includes everything in build 194.
+            <description sparkle:format="plain-text"><![CDATA[This update improves Margin on foldable iPhones and fixes keyboard focus and VoiceOver issues found on iOS 27.2. On the Mac, Margin works as before. Includes everything in build 197.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.2.0-197/Margin-1.2.0-197.dmg" length="54696690" type="application/octet-stream" sparkle:edSignature="nV/GNM1FuZbJnVrwHvV1rlq9CO8GCXwl6O7P2fWKKlKGOBgdlon9R3+mjwlZINllKwvS/hkaRcyomSY9fVXUBQ=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.2.0-198/Margin-1.2.0-198.dmg" length="54713043" type="application/octet-stream" sparkle:edSignature="Fnz7HJaRoqNCOSUko43quUCwS1SV3m+KUxy9XPO/kjB38DB0c/L7yQUPS9MkNxmkFnkX47+oE86uYGjCF4U+CQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: rA7XqhpEydmLfMqC8rIcL2QZKaONd3zezbPA5ALZe4uiTjHlmGpuJrH/P03jnbwyp6Ir+R6Yl4UEYZ7xG1O1BA==
-length: 1400
+edSignature: 4J58l7Yk4xzLrC9INx2y4Umd5I9VgPMr/Xsfcuebvts7sBe7NO+q9EjxKzTq7FD3igsajwZg3kdaXDFdvzdLCg==
+length: 1369
 -->
