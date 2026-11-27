@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.3.0</title>
-            <pubDate>Fri, 27 Nov 2026 02:45:55 -0500</pubDate>
+            <pubDate>Fri, 27 Nov 2026 12:04:38 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>200</sparkle:version>
+            <sparkle:version>201</sparkle:version>
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[This update brings Margin's new home: your spaces as a map you can drag, squash and grow, a chat beside every board that can put things where you ask, and answers that open with a drop cap. It is on for your account first, and includes everything in build 199.
+            <description sparkle:format="plain-text"><![CDATA[This update reworks Margin's new home after your first try of it: the chat now sees your boards and can put cards where you ask, your spaces sit in one round map with readable names (untitled ones get titles), dragging stays smooth with many spaces, and every new screen has a clear way out. It is on for your account first, and includes everything in build 200.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.3.0-200/Margin-1.3.0-200.dmg" length="56103802" type="application/octet-stream" sparkle:edSignature="4DvhHRXbwn3/S/dEQlb0OwWMZ7CzI1HDNrwyd2/k6FxO8xcxQlV0UlJAHQrD4NASsCXH1O3T4RxbAoAStbjVBw=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.3.0-201/Margin-1.3.0-201.dmg" length="56193820" type="application/octet-stream" sparkle:edSignature="DOQ3LK+j0HgPYrv8aXDW06Y+n0LBWtvPQpFC9O6SgoZ23YWIvCvLocyZ94IFj3C2MozQL/1PLxgyKY4wj9SzBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: AikfekUlKDXl7Uq+zSXNiVCyYY2ZyYR6UxIVoIjJfW95BBSiHfTbAKgBAHjrf1ad6/CY4xKaAH7JVZnq2E1dBg==
-length: 1447
+edSignature: 3lp/DlzdXEVsuNnJNySZL7TqYK6j+A1G/OkC33N7Lzj9CmUJovjK+V1WWL8I97IUxH6kOiGZwlqLfX9FNOw+Cw==
+length: 1549
 -->
