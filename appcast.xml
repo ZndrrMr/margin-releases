@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Margin</title>
         <item>
             <title>1.3.0</title>
-            <pubDate>Fri, 27 Nov 2026 12:04:38 -0500</pubDate>
+            <pubDate>Fri, 27 Nov 2026 16:30:30 -0500</pubDate>
             <link>https://www.use-margin.com</link>
-            <sparkle:version>201</sparkle:version>
+            <sparkle:version>202</sparkle:version>
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[This update reworks Margin's new home after your first try of it: the chat now sees your boards and can put cards where you ask, your spaces sit in one round map with readable names (untitled ones get titles), dragging stays smooth with many spaces, and every new screen has a clear way out. It is on for your account first, and includes everything in build 200.
+            <description sparkle:format="plain-text"><![CDATA[Your home is now a canvas of space cards. A card stays exactly where you put it and never changes size; a space you use more shows as a thicker stack with a richer face. New and small ideas wait in a tray at the bottom until you place or pin them. Every board now grows outward from its middle, so work the AI puts to the left or above lands there without pushing anything, and the two-arrows button brings you back to the middle of your work. It is on for your account first, and includes everything in build 201.
 ]]></description>
-            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.3.0-201/Margin-1.3.0-201.dmg" length="56193820" type="application/octet-stream" sparkle:edSignature="DOQ3LK+j0HgPYrv8aXDW06Y+n0LBWtvPQpFC9O6SgoZ23YWIvCvLocyZ94IFj3C2MozQL/1PLxgyKY4wj9SzBQ=="></enclosure>
+            <enclosure url="https://github.com/ZndrrMr/margin-releases/releases/download/v1.3.0-202/Margin-1.3.0-202.dmg" length="56235552" type="application/octet-stream" sparkle:edSignature="QA3oz1+gQml8K3K0AMoWqvZykYOz1nFrBlfm1VQYQQog6DqiRDqazAX8OrUluOXLCXVjzGWFlqaxmDjNAioVDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3lp/DlzdXEVsuNnJNySZL7TqYK6j+A1G/OkC33N7Lzj9CmUJovjK+V1WWL8I97IUxH6kOiGZwlqLfX9FNOw+Cw==
-length: 1549
+edSignature: R6ldmpX6Fa3YkVOP7cD+jwhsob4PAITJDx9oyVohNl2+lI6attxZMeOpLV/Z+sT4EDtgnN1xmGycNt3M9TxsDg==
+length: 1701
 -->
